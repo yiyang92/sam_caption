@@ -7,5 +7,5 @@ Idea if semantic attribute modulation for language modelling is based on the pap
 - Script contains data preprocessing script, NIC and attention baselines, as well as SAM experimental model
 
 Notes:
-- Data download link: 
+- Data download link: https://mashyu.github.io/NSC/
 - Resnet checkpoints can be downloaded from tensorflow models/official/Resnet-50 checkpoint
